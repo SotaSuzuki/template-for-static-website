@@ -18,6 +18,29 @@ This is made for making a static websites which is pretty tiny, and is as a play
 - JS
   - nothing!
 
+### File Structure
+
+```
+
+Project
+│
+├── gulp_tasks
+│     └ [ task files ]
+│
+│── src
+│     ├ assets
+│     └ index.html
+│
+├── .csscomb.json
+├── .editorconfig
+├── .gitignore
+├── stylelintrc
+├── gulpgile.js
+├── package.json
+└── README.md
+
+```
+
 
 ## Usage
 
